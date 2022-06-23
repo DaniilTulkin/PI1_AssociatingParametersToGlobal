@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_AssociatingParametersToGlobal</Name>
+		<Assembly>PI1_AssociatingParametersToGlobal.dll</Assembly>
+		<AddInId>AA502E72-080F-4B04-BDA3-79940AE18C7A</AddInId>
+		<FullClassName>PI1_AssociatingParametersToGlobal.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
